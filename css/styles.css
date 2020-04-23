@@ -2,4 +2,20 @@ h1 {
     color:#111111;
     text-align: center;
   }
-  
+  div.pink {
+    background-color:pink;
+    margin: 0 auto;
+    width:900;
+}      
+
+div.blue {
+ background-color:blue;
+ width:800px;
+ margin: 0 auto;
+}
+
+div.red{
+    background-color:red;
+    margin: 0 auto;
+     width:700px;
+}
