@@ -22,7 +22,12 @@ body {
      background-color: beige;
 }
 
-float
+.column {
+  width: fit-content;
+  float: unset;
+}
+
+
 
 
   
