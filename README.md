@@ -6,7 +6,7 @@
 ## Description
 {This is a detaited description of me and all I have done of note in my programming life..It includes, my name, an image represents me, a ist of projects that represent me, an "About Me" section,}
 ## Known Bugs
-{There are no known bugs on this document. }
+{Image jpg won't load. }
 
 ## Technologies Used
 {HTML & CSS.}
