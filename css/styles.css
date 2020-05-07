@@ -23,7 +23,10 @@ body {
 }
 
 .box-1 {
-  border-left: aliceblu;
+  border-left: 8px solid teal;
+  border-right: 8px solid teal;
+  border-top: 11px solid forestgreen;
+  border-bottom: 10px solid purple;
 }
 
 span {color: red;}
