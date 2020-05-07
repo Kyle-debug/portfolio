@@ -33,6 +33,14 @@ span {color: red;}
 
 img { float: left;}
 
+.p1 {font-weight: bold;
+     background-color: mediumaquamarine;
+     font-style: oblique;}
+
+.p2 {font-weight: 300;
+     background-color: navajowhite;
+     font-style: normal;}
+
 
 
 
